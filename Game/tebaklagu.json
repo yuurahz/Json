@@ -248,5 +248,20 @@
     "lagu": "https://raw.githubusercontent.com/yuurahz/Json/main/Song/nina.mp3",
     "judul": "Nina",
     "artis": ".Feast"
+   },
+   {
+    "lagu": "https://raw.githubusercontent.com/yuurahz/Json/main/Song/abadi.mp3",
+    "judul": "Abadi",
+    "artis": "Dendi Nata"
+   },
+   {
+    "lagu": "https://raw.githubusercontent.com/yuurahz/Json/main/Song/cincin.mp3",
+    "judul": "Cincin",
+    "artis": "Hindia"
+   },
+   {
+    "lagu": "https://raw.githubusercontent.com/yuurahz/Json/main/Song/secukupnya.mp3",
+    "judul": "Secukupnya",
+    "artis": "Hindia"
    }
 ]
