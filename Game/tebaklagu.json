@@ -263,5 +263,10 @@
     "lagu": "https://raw.githubusercontent.com/yuurahz/Json/main/Song/secukupnya.mp3",
     "judul": "Secukupnya",
     "artis": "Hindia"
+   },
+   {
+    "lagu": "https://raw.githubusercontent.com/yuurahz/Json/main/Song/we-cant-be-friend.mp3",
+    "judul": "We can't be friends",
+    "artis": "Ariana Grande"
    }
 ]
