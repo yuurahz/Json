@@ -238,5 +238,15 @@
     "lagu": "https://raw.githubusercontent.com/yuurahz/Json/main/Song/sound8101.mp3",
     "judul": "Wonderland",
     "artis": "Axel Johansson"
+   },
+   {
+    "lagu": "https://raw.githubusercontent.com/yuurahz/Json/main/Song/selendang-biru.mp3",
+    "judul": "Selendang Biru",
+    "artis": "Gun Krewol"
+   },
+   {
+    "lagu": "https://raw.githubusercontent.com/yuurahz/Json/main/Song/nina.mp3",
+    "judul": "Nina",
+    "artis": ".Feast"
    }
 ]
